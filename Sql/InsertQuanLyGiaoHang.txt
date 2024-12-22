@@ -1,0 +1,86 @@
+USE QuanLyGiaoHang
+GO
+INSERT INTO KHACHHANG(MAKHACHHANG,TENCONGTY,TENGIAODICH,DIACHI,EMAIL,DIENTHOAI,FAX) VALUES 
+(1, N'Công ty A', N'A Giao dịch', N'Hà Nội', N'congtya@gmail.com', N'0901234567', N'0241234567'),
+(2, N'Công ty B', N'B Giao dịch', N'Hải Phòng', N'congtyb@gmail.com', N'0902345678', N'0242345678'),
+(3, N'Công ty C', N'C Giao dịch', N'Hồ Chí Minh', N'congtyc@gmail.com', N'0903456789', N'0283456789'),
+(4, N'Công ty D', N'D Giao dịch', N'Đà Nẵng', N'congtyd@gmail.com', N'0904567890', N'0236456789'),
+(5, N'Công ty E', N'E Giao dịch', N'Vĩnh Phúc', N'congtye@gmail.com', N'0905678901', N'0213456789'),
+(6, N'Công ty F', N'F Giao dịch', N'Quảng Ninh', N'congtyf@gmail.com', N'0906789012', N'0334567890'),
+(7, N'Công ty G', N'G Giao dịch', N'Cần Thơ', N'congtyg@gmail.com', N'0907890123', N'0293456789'),
+(8, N'Công ty H', N'H Giao dịch', N'Bắc Ninh', N'congtyh@gmail.com', N'0908901234', N'0223456789'),
+(9, N'Công ty I', N'I Giao dịch', N'Khánh Hòa', N'congtyi@gmail.com', N'0909012345', N'0253456789'),
+(10, N'Công ty J', N'J Giao dịch', N'Lào Cai', N'congtyj@gmail.com', N'0900123456', N'0212345678');
+GO
+INSERT INTO NHACUNGCAP VALUES 
+(1, N'Công ty X', N'X Giao dịch', N'Hà Nội', N'0911234567', N'0245678901', N'ctx@gmail.com'),
+(2, N'Công ty Y', N'Y Giao dịch', N'Hải Phòng', N'0912345678', N'0223456789', N'cty@gmail.com'),
+(3, N'Công ty Z', N'Z Giao dịch', N'Hồ Chí Minh', N'0913456789', N'0281234567', N'ctz@gmail.com'),
+(4, N'Công ty P', N'P Giao dịch', N'Đà Nẵng', N'0914567890', N'0234567890', N'ctp@gmail.com'),
+(5, N'Công ty Q', N'Q Giao dịch', N'Quảng Ninh', N'0915678901', N'0331234567', N'ctq@gmail.com'),
+(6, N'Công ty R', N'R Giao dịch', N'Cần Thơ', N'0916789012', N'0291234567', N'ctr@gmail.com'),
+(7, N'Công ty S', N'S Giao dịch', N'Khánh Hòa', N'0917890123', N'0251234567', N'cts@gmail.com'),
+(8, N'Công ty T', N'T Giao dịch', N'Lào Cai', N'0918901234', N'0212345678', N'ctt@gmail.com'),
+(9, N'Công ty U', N'U Giao dịch', N'Vĩnh Phúc', N'0919012345', N'0213456789', N'ctu@gmail.com'),
+(10, N'Công ty V', N'V Giao dịch', N'Bắc Ninh', N'0910123456', N'0223456789', N'ctv@gmail.com');
+GO
+INSERT INTO NHANVIEN VALUES 
+(1, N'Nguyễn', N'Văn A', '1990-01-01', '2015-05-01', N'Hà Nội', 10000000, 2000000),
+(2, N'Lê', N'Thị B', '1992-02-02', '2016-06-01', N'Hải Phòng', 9500000, 1800000),
+(3, N'Trần', N'Văn C', '1993-03-03', '2017-07-01', N'Hồ Chí Minh', 11000000, 2500000),
+(4, N'Phạm', N'Thị D', '1994-04-04', '2018-08-01', N'Đà Nẵng', 12000000, 3000000),
+(5, N'Huỳnh', N'Văn E', '1995-05-05', '2019-09-01', N'Quảng Ninh', 10500000, 2200000),
+(6, N'Hoàng', N'Thị F', '1996-06-06', '2020-10-01', N'Cần Thơ', 9500000, 1800000),
+(7, N'Ngô', N'Văn G', '1997-07-07', '2021-11-01', N'Khánh Hòa', 9800000, 2000000),
+(8, N'Đỗ', N'Thị H', '1998-08-08', '2022-12-01', N'Lào Cai', 10000000, 2500000),
+(9, N'Bùi', N'Văn I', '1990-09-09', '2023-01-01', N'Vĩnh Phúc', 9500000, 1500000),
+(10, N'Đặng', N'Thị K', '1989-10-10', '2014-02-01', N'Bắc Ninh', 11000000, 2200000);
+GO
+INSERT INTO LOAIHANG VALUES 
+(1, N'Hàng điện tử'),
+(2, N'Hàng gia dụng'),
+(3, N'Hàng thời trang'),
+(4, N'Hàng tiêu dùng'),
+(5, N'Hàng công nghiệp'),
+(6, N'Hàng thủ công mỹ nghệ'),
+(7, N'Hàng nội thất'),
+(8, N'Hàng y tế'),
+(9, N'Hàng giáo dục'),
+(10, N'Hàng giải trí');
+GO
+INSERT INTO MATHANG VALUES 
+(1, N'Tivi Sony', 1, 1, N'Cái', 15000000),
+(2, N'Tủ lạnh Samsung', 2, 2, N'Cái', 12000000),
+(3, N'Máy giặt LG', 3, 1, N'Cái', 10000000),
+(4, N'Máy lạnh Daikin', 4, 1, N'Cái', 20000000),
+(5, N'Bàn ăn gỗ', 5, 7, N'Cái', 8000000),
+(6, N'Đèn ngủ', 6, 7, N'Cái', 500000),
+(7, N'Sách giáo khoa', 7, 9, N'Bộ', 100000),
+(8, N'Trò chơi điện tử', 8, 10, N'Cái', 700000),
+(9, N'Khẩu trang y tế', 9, 8, N'Hộp', 30000),
+(10, N'Bình giữ nhiệt', 10, 4, N'Cái', 250000);
+GO
+INSERT INTO DONDATHANG VALUES 
+(1, 1, 1, '2024-12-01', '2024-12-05', '2024-12-03', N'Nguyễn Văn A'),
+(2, 2, 2, '2024-12-02', '2024-12-06', '2024-12-04', N'Lê Thị B'),
+(3, 3, 3, '2024-12-03', '2024-12-07', '2024-12-05', N'Trần Văn C'),
+(4, 4, 4, '2024-12-04', '2024-12-08', '2024-12-06', N'Phạm Thị D'),
+(5, 5, 5, '2024-12-05', '2024-12-09', '2024-12-07', N'Huỳnh Văn E'),
+(6, 6, 6, '2024-12-06', '2024-12-10', '2024-12-08', N'Hoàng Thị F'),
+(7, 7, 7, '2024-12-07', '2024-12-11', '2024-12-09', N'Ngô Văn G'),
+(8, 8, 8, '2024-12-08', '2024-12-12', '2024-12-10', N'Đỗ Thị H'),
+(9, 9, 9, '2024-12-09', '2024-12-13', '2024-12-11', N'Bùi Văn I'),
+(10, 10, 10, '2024-12-10', '2024-12-14', '2024-12-12', N'Đặng Thị K');
+GO
+INSERT INTO CHITIETDATHANG VALUES 
+(1, 1, 15000000, 2, 0.1),
+(1, 2, 12000000, 1, 0.05),
+(2, 3, 10000000, 3, 0.1),
+(2, 4, 20000000, 1, 0.2),
+(3, 5, 8000000, 1, 0.05),
+(3, 6, 500000, 4, 0),
+(4, 7, 100000, 10, 0.1),
+(4, 8, 700000, 2, 0.15),
+(5, 9, 30000, 20, 0.05),
+(5, 10, 250000, 5, 0.05);
+GO

@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|e:\\workspace\\asp.net\\asp\\2.1\\quanlygiaohang\\quanlygiaohang\\view\\chitietdathang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|solutionrelative:quanlygiaohang\\view\\chitietdathang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|e:\\workspace\\asp.net\\asp\\2.1\\quanlygiaohang\\quanlygiaohang\\view\\chitietdathang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|solutionrelative:quanlygiaohang\\view\\chitietdathang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\quanlygiaohang\\view\\khachhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|solutionrelative:quanlygiaohang\\view\\khachhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\quanlygiaohang\\view\\khachhang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|solutionrelative:quanlygiaohang\\view\\khachhang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|e:\\workspace\\asp.net\\asp\\2.1\\quanlygiaohang\\quanlygiaohang\\view\\mathang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|solutionrelative:quanlygiaohang\\view\\mathang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|e:\\workspace\\asp.net\\asp\\2.1\\quanlygiaohang\\quanlygiaohang\\view\\dondathang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|solutionrelative:quanlygiaohang\\view\\dondathang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|e:\\workspace\\asp.net\\asp\\2.1\\quanlygiaohang\\quanlygiaohang\\view\\dondathang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|solutionrelative:quanlygiaohang\\view\\dondathang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|e:\\workspace\\asp.net\\asp\\2.1\\quanlygiaohang\\quanlygiaohang\\view\\mathang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|solutionrelative:quanlygiaohang\\view\\mathang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|e:\\workspace\\asp.net\\asp\\2.1\\quanlygiaohang\\quanlygiaohang\\view\\loaihang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|solutionrelative:quanlygiaohang\\view\\loaihang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|e:\\workspace\\asp.net\\asp\\2.1\\quanlygiaohang\\quanlygiaohang\\view\\loaihang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|solutionrelative:quanlygiaohang\\view\\loaihang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\quanlygiaohang\\view\\nhacungcap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|solutionrelative:quanlygiaohang\\view\\nhacungcap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|e:\\workspace\\asp.net\\asp\\2.1\\quanlygiaohang\\quanlygiaohang\\view\\nhanvien.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|solutionrelative:quanlygiaohang\\view\\nhanvien.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|e:\\workspace\\asp.net\\asp\\2.1\\quanlygiaohang\\quanlygiaohang\\view\\nhacungcap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|solutionrelative:quanlygiaohang\\view\\nhacungcap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|e:\\workspace\\asp.net\\asp\\2.1\\quanlygiaohang\\quanlygiaohang\\view\\nhanvien.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{811A4991-DD2B-45EB-9DC7-28DF02E97FA0}|QuanLyGiaoHang\\QuanLyGiaoHang.csproj|solutionrelative:quanlygiaohang\\view\\nhanvien.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChiTietDatHang.aspx.cs",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\ChiTietDatHang.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyGiaoHang\\View\\ChiTietDatHang.aspx.cs",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\ChiTietDatHang.aspx.cs",
+              "RelativeToolTip": "QuanLyGiaoHang\\View\\ChiTietDatHang.aspx.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwFYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:54:04.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChiTietDatHang.aspx",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\ChiTietDatHang.aspx",
+              "RelativeDocumentMoniker": "QuanLyGiaoHang\\View\\ChiTietDatHang.aspx",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\ChiTietDatHang.aspx*",
+              "RelativeToolTip": "QuanLyGiaoHang\\View\\ChiTietDatHang.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-22T13:48:26.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DonDatHang.aspx",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\DonDatHang.aspx",
+              "RelativeDocumentMoniker": "QuanLyGiaoHang\\View\\DonDatHang.aspx",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\DonDatHang.aspx",
+              "RelativeToolTip": "QuanLyGiaoHang\\View\\DonDatHang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-22T13:29:34.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatHang.aspx.cs",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\MatHang.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyGiaoHang\\View\\MatHang.aspx.cs",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\MatHang.aspx.cs",
+              "RelativeToolTip": "QuanLyGiaoHang\\View\\MatHang.aspx.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwFIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:20:51.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoaiHang.aspx",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\LoaiHang.aspx",
+              "RelativeDocumentMoniker": "QuanLyGiaoHang\\View\\LoaiHang.aspx",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\LoaiHang.aspx",
+              "RelativeToolTip": "QuanLyGiaoHang\\View\\LoaiHang.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-22T12:55:42.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NhanVien.aspx.cs",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\NhanVien.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyGiaoHang\\View\\NhanVien.aspx.cs",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\NhanVien.aspx.cs",
+              "RelativeToolTip": "QuanLyGiaoHang\\View\\NhanVien.aspx.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:37:02.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NhanVien.aspx",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\NhanVien.aspx",
+              "RelativeDocumentMoniker": "QuanLyGiaoHang\\View\\NhanVien.aspx",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\NhanVien.aspx",
+              "RelativeToolTip": "QuanLyGiaoHang\\View\\NhanVien.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-22T12:28:08.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhachHang.aspx.cs",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\KhachHang.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyGiaoHang\\View\\KhachHang.aspx.cs",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\KhachHang.aspx.cs",
+              "RelativeToolTip": "QuanLyGiaoHang\\View\\KhachHang.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:05:01.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KhachHang.aspx",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\KhachHang.aspx",
+              "RelativeDocumentMoniker": "QuanLyGiaoHang\\View\\KhachHang.aspx",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\KhachHang.aspx",
+              "RelativeToolTip": "QuanLyGiaoHang\\View\\KhachHang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-21T14:59:46.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoaiHang.aspx.cs",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\LoaiHang.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyGiaoHang\\View\\LoaiHang.aspx.cs",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\LoaiHang.aspx.cs",
+              "RelativeToolTip": "QuanLyGiaoHang\\View\\LoaiHang.aspx.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:00:46.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DonDatHang.aspx.cs",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\DonDatHang.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyGiaoHang\\View\\DonDatHang.aspx.cs",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\DonDatHang.aspx.cs",
+              "RelativeToolTip": "QuanLyGiaoHang\\View\\DonDatHang.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:36:21.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MatHang.aspx",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\MatHang.aspx",
+              "RelativeDocumentMoniker": "QuanLyGiaoHang\\View\\MatHang.aspx",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\MatHang.aspx",
+              "RelativeToolTip": "QuanLyGiaoHang\\View\\MatHang.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-22T13:12:57.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NhaCungCap.aspx.cs",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\NhaCungCap.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyGiaoHang\\View\\NhaCungCap.aspx.cs",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\NhaCungCap.aspx.cs",
+              "RelativeToolTip": "QuanLyGiaoHang\\View\\NhaCungCap.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:03:26.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NhaCungCap.aspx",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\NhaCungCap.aspx",
+              "RelativeDocumentMoniker": "QuanLyGiaoHang\\View\\NhaCungCap.aspx",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyGiaoHang\\QuanLyGiaoHang\\View\\NhaCungCap.aspx",
+              "RelativeToolTip": "QuanLyGiaoHang\\View\\NhaCungCap.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-21T14:59:16.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
